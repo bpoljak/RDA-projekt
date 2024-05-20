@@ -7,7 +7,7 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="inksourcefolder"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/borna/Desktop/INK_RDA/inkstitutionUI/jcalendar-1.4.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/borna/Desktop/INK_RDA/inkstitutionUI/mysql-connector-j-8.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/borna/Desktop/Ink_RDA/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/borna/Desktop/Ink_RDA/mysql-connector-j-8.3.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
